@@ -1,15 +1,30 @@
+![Image from my first game : SeaOfCrabs. All visuals, code and muusics are homemade.](https://github.com/AlbinHorlaville/AlbinHorlaville/assets/98279992/11096afc-a2b7-4973-a513-8e4013f09ab3)
+
 ### Hi there 👋
-I am Albin Horlaville, an IT student at Polytech Grenoble and soon University of the Québec at  Chicoutimi ! I am learning video game's developpement and a lot of stuff.
+
+I am **Albin Horlaville**, an IT student at 🔵`Polytech Grenoble` and soon University of the Québec at  Chicoutimi ! I am learning video game's developpement and a lot of stuff.
 
 Please review my repositories, where you will find a variety of *school* and *personal* projects.
 
 - 👨‍🎓 My academic journey:
-  - 🦎 _Licence 1_ : Computer science and applied mathematics - Département des Licences Scientifiques et Techniques (DLST) / Polytech engineering school careers (PeipA 1) - <span style="color:blue">Polytech Grenoble</span>
-  - 🐍 _Licence 2_ : Computer science and applied mathematics - (DLST) / Polytech engineering school careers (PeipA 2) - <span style="color:blue">Polytech Grenoble</span>
-  - 🦕 _Licence 3_ : Computer science engineering, year ONE -<span style="color:blue">Polytech Grenoble</span>
-  - 🦖 _Master 1_ : Computer science engineering, year TWO - <span style="color:blue">Polytech Grenoble</span>  <-👾 I am currently here
+  - 🦎 _Licence 1_ :
+      - Computer science and applied mathematics - 🟢`Département des Licences Scientifiques et Techniques` (DLST)
+      - Polytech engineering school careers (PeipA 1) - 🔵
+  - 🐍 _Licence 2_ :
+      - Computer science and applied mathematics - 🟢
+      - Polytech engineering school careers (PeipA 2) - 🔵
+  - 🦕 _Licence 3_ :
+      - Computer science engineering, year ONE - 🔵
+  - 🦖 _Master 1_ :
+      - Computer science engineering, year TWO - 🔵  <-👾 I am currently here
   - 🐉 _Master 2_ : Double Degree:
-      - Computer science engineering, year THREE - <span style="color:blue">Polytech Grenoble</span>
-      - Master's Degree in Computer Science (Video Games) - University of Quebec at Chicoutimi (UQAC)
+      - Computer science engineering, year THREE - 🔵
+      - Master's Degree in Computer Science (Video Games) - 🔴`University of Quebec at Chicoutimi` (UQAC)
 
-If you are interressed in my work, please contact me on [Linkedin](www.linkedin.com/in/albin-horlaville) or send me an email at albinhorlaville@gmail.com.
+- 🧞 My video game projects:
+  - [Snake like Game - Processing (Java)](https://github.com/AlbinHorlaville/Lombriz-Game-Processing)
+  - [SeaOfCrabs - GameJame Polytech Grenoble 2023 - Java](https://github.com/AlbinHorlaville/SeaOfCrabs_GameJam_Polytech_2023)
+  - [OpenWorldLego - Godot](soon)
+
+> [!TIP]
+> If you are interressed in my work, please contact me on [Linkedin](www.linkedin.com/in/albin-horlaville) or send me an email at albinhorlaville@gmail.com.
