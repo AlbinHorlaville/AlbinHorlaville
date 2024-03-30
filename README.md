@@ -24,7 +24,7 @@ Please review my repositories, where you will find a variety of *school* and *pe
 - 🧞 My video game projects:
   - [Snake like Game - Processing (Java)](https://github.com/AlbinHorlaville/Lombriz-Game-Processing)
   - [SeaOfCrabs - GameJame Polytech Grenoble 2023 - Java](https://github.com/AlbinHorlaville/SeaOfCrabs_GameJam_Polytech_2023)
-  - [OpenWorldLego - Godot](soon)
+  - [OpenWorldLego - Godot](https://github.com/AlbinHorlaville/Open-World-Lego-Minecraft)
 
 > [!TIP]
 > If you are interressed in my work, please contact me on [Linkedin](www.linkedin.com/in/albin-horlaville) or send me an email at albinhorlaville@gmail.com.
