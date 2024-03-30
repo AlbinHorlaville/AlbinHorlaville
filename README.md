@@ -15,9 +15,9 @@ Please review my repositories, where you will find a variety of *school* and *pe
 
  * 🐉 Master 2 : Double Degree :
 
-   ** Computer science engineering, year THREE - Polytech Grenoble
-
-   ** Master's Degree in Computer Science (Video Games) - University of Quebec at Chicoutimi (UQAC)
+ ** Computer science engineering, year THREE - Polytech Grenoble
+ 
+ ** Master's Degree in Computer Science (Video Games) - University of Quebec at Chicoutimi (UQAC)
 
 
 If you are interressed in my work, please contact me on [Linkedin](www.linkedin.com/in/albin-horlaville) or send me an email at albinhorlaville@gmail.com.
