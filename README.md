@@ -1,4 +1,4 @@
-![Image from my first game : SeaOfCrabs. All visuals, code and muusics are homemade.](![VidéoSoC](https://github.com/AlbinHorlaville/AlbinHorlaville/assets/98279992/3556872e-202f-43b0-898b-5e56d6aa2c02))
+![Image from my first game : SeaOfCrabs. All visuals, code and musics are homemade.](https://github.com/AlbinHorlaville/AlbinHorlaville/assets/98279992/3556872e-202f-43b0-898b-5e56d6aa2c02)
 
 
 ### Hi there 👋
