@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am **Albin Horlaville**, an IT student at 🔵`Polytech Grenoble` and soon University of the Québec at  Chicoutimi ! I am learning video game's developpement and a lot of stuff.
+I am **Albin Horlaville**, an IT student at 🔵`Polytech Grenoble` and 🔴`University of the Québec at Chicoutimi` ! I am learning video game's developpement and a lot of stuff.
 
 Please review my repositories, where you will find a variety of *school* and *personal* projects.
 
