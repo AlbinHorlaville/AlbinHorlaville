@@ -22,10 +22,10 @@ Please review my repositories, where you will find a variety of *school* and *pe
       - Computer science engineering, year THREE - 🔵
       - Master's Degree in Computer Science (Video Games) - 🔴`University of Quebec at Chicoutimi` (UQAC)
 
-- 🧞 My video game projects:
+- 🧞 My best projects:
 
   - [PewPewTime - Unreal Engine](https://youtu.be/cNyinUshwEQ?si=vngGNSI7YTJJxVAz)
-  - [Network Engine]([https://github.com/AlbinHorlaville/Lombriz-Game-Processing](https://github.com/AlbinHorlaville/RPC-enjoyer-Network-engine))
+  - [Network Engine](https://github.com/AlbinHorlaville/Lombriz-Game-Processing)
   - [Open world lego - Godot](https://github.com/AlbinHorlaville/open-world-lego)
   - [SeaOfCrabs - GameJame Polytech Grenoble 2023 - Java](https://github.com/AlbinHorlaville/SeaOfCrabs_GameJam_Polytech_2023)
 
